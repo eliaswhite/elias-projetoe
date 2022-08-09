@@ -1,7 +1,7 @@
 <template>
   <header>
     <div class="menu-esquerdo">
-      <span>Home</span>
+      <span>Elias</span>
       <span>|</span>
       <span>Jogadores</span>
       <span>|</span>
